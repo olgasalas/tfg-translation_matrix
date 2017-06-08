@@ -1,0 +1,17 @@
+NN3	1.448	0.348 //500 nodos en la capa intermedia
+NN3	2.118	0.508 //2000 nodos en la capa intermedia, 2500 iteraciones
+NN3	2.096	0.492 //5000 nodos en la capa intermedia, 1000 iteraciones
+NN3	2.058	0.464 //5000 nodos en la capa intermedia, 1700 iteraciones
+NN3	1.816	0.428 //3000 nodos en la capa intermedia, 1200 iteraciones
+NN3	2.056	0.468 //3000 nodos en la capa intermedia, 1200 iteraciones
+NN3	1.658	0.396 //3000 y 1000 nodos
+NN4	1.096	0.282 //500 nodos en las capas intermedias, 1500 iteraciones
+NN4	1.312	0.324 //1000 nodos en las capas intermedias, 1500 iteraciones
+NN4	1.928	0.454 //2000 nodos en las capas intermedias, 1500 iteraciones
+NN4	1.492	0.366 //3000 nodos en las capas intermedias, 600 iteraciones
+NN2	1.352	0.334 //500 nodos, 1500 iteraciones
+NN2	1.37	0.326 //1000 nodos, 1500 iteraciones
+NN2	1.934	0.446 //2000 nodos, 1500 iteraciones
+NN2	2.012	0.46  //3000 nodos
+NN2	2.354	0.534 //4000 nodos MEJOR RESULTADO
+NN2	2.226	0.518 //5000 nodos

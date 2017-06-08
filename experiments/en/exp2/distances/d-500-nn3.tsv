@@ -1,0 +1,510 @@
+#61554	['#61554' 'anxiety' 'trauma' 'depression' 'symptom']	0.468084280501	0.546230518653
+#74905	['#74905' '#140829' 'go to sleep' '#68019' '#76232']	0.436656070543	0.594440839436
+deferment	['deferment' '#91591' '#57471' 'automaticity' '#4370']	0.411616140851	0.617457862098
+zing	['zing' '#62958' '#86440' '#73413' '#313750']	0.531490327897	0.572194369399
+appetite	['appetite' '#93073' 'insatiable' '#138143' 'greed']	0.398735840385	0.480580687985
+radio beacon	['radio beacon' '#19610' '#180046' '#48998' 'electromagnetic induction']	0.513203311531	0.572870419967
+#149322	['#149322' '#23712' 'imprudence' 'scent' '#142533']	0.493972421915	0.538939859256
+#37298	['#37298' 'primitive' '#85961' '#20759' '#34879']	0.474615741054	0.546389276942
+overlying	['overlying' '#64825' '#96490' '#64402' '#145967']	0.471609956332	0.483807306156
+#37886	['#37886' '#37076' '#2101' '#70956' '#14295']	0.377383311263	0.531408474407
+#143316	['#143316' '#41259' '#117152' 'fishmeal' 'photosynthesis']	0.421580953787	0.520769875805
+#21495	['tent' '#21495' '#17545' '#13635' 'blanket']	0.484626443377	0.581380537399
+#85292	['#85292' 'brain death' '#186112' 'surgical procedure' '#34879']	0.387419555178	0.545186852412
+#324	['unrefined' '#1372' 'primitive' 'carnivorous' '#169704']	0.615134100673	0.554988970416
+agglomeration	['#37237' '#143258' 'agglomeration' 'economic expansion' 'booming']	0.463452730039	0.488384663094
+#69825	['#69825' 'complain' 'contamination' 'consequent' 'basin']	0.479860971323	0.579216437484
+vast	['vast' 'impossible' '#77477' '#149918' '#59696']	0.544127789955	0.61225947577
+#132357	['#132357' 'inspector general' '#92087' '#46691' 'reorganize']	0.439889312537	0.569445640228
+marry	['marry' '#76911' 'married' '#97359' '#89640']	0.446259607116	0.549984036682
+#93561	['signed' '#93561' 'writing' '#76856' '#25001']	0.477699029277	0.608882858278
+#193481	['#193481' 'patiently' 'delight' '#39287' '#92222']	0.373707388665	0.514953066633
+#173521	['#173521' 'pluton' 'oxidizer' '#10527' 'sodium hydroxide']	0.456993486205	0.514353034862
+#77515	['#77515' '#82020' '#30612' '#68722' 'population']	0.42580549612	0.526538413094
+#28481	['#28481' '#28442' '#115217' 'geophysics' 'geochemistry']	0.442126997468	0.527828782245
+#97666	['#97666' 'anthropological' '#175537' 'ethnological' '#84773']	0.512857393095	0.562066587675
+#59828	['#59828' 'amino acid' 'symbiosis' '#62836' 'symbiotic']	0.529974385349	0.563680213606
+traveling	['traveling' '#34879' '#156129' 'forceps' 'town crier']	0.513368439877	0.562458559218
+#20640	['#20640' 'piercing' '#26515' 'fuselage' '#2591']	0.392345726832	0.466548104635
+#17429	['#17429' 'jeep' '#18783' '#15164' 'fuselage']	0.407432452314	0.501041337035
+#59730	['#59730' '#62798' 'phosphoric acid' 'condensed milk' '#197802']	0.409512008438	0.492670423506
+opaque	['opaque' '#84226' '#81429' 'insatiable' 'primitive']	0.481217854978	0.52740444199
+#119879	['#119879' '#78189' 'document' '#23140' '#31097']	0.414290151246	0.603691007605
+#85738	['#85738' '#83488' '#199666' 'lumbar' '#98324']	0.449443107896	0.524808632543
+#33603	['#33603' 'skeptic' '#23626' 'primitive' 'miniaturization']	0.541098563094	0.587117060053
+caffeine	['caffeine' '#37144' '#11188' 'gari' 'unrefined']	0.471743721057	0.488972685056
+#78602	['industrial process' '#78602' 'energy industry' '#64430' 'lignite']	0.515335160729	0.545797088775
+#311424	['#311424' 'genetic information' 'gene' '#26055' 'peptide']	0.427851068594	0.537139699442
+supplies	['supplies' '#206' 'shortage' 'recurrent' '#24725']	0.49936366038	0.622591883076
+national debt	['national debt' '#277152' '#57805' '#58263' 'rupee']	0.432714064622	0.525175978252
+#23296	['precision' '#23296' '#4099' 'prediction' '#117295']	0.485498241391	0.579959355995
+jet propulsion	['jet propulsion' '#48876' '#96660' '#41736' 'biosensor']	0.360642565622	0.460481108195
+#58510	['#58510' 'wilt' 'potassium nitrate' 'mink' 'oddly']	0.476533238602	0.572544675575
+major power	['major power' 'superpower' 'great power' '#136840' '#173795']	0.429960721142	0.529211648521
+#288788	['#288788' '#159040' 'gym' 'gerontologist' '#44942']	0.491667629645	0.570789794708
+exemption	['exemption' '#803' '#15967' '#27278' 'privilege']	0.43482737061	0.589281461191
+noticeable	['noticeable' 'appreciable' 'empirical' '#81468' '#62542']	0.41576785417	0.576338591303
+repairman	['fitter' 'home appliance' 'casual labour' '#48087' 'seamstress']	0.542868192579	0.506107757806
+guarantor	['guarantor' '#45379' 'prime' 'sovereign state' 'prerogative']	0.443963735464	0.577409599766
+bot	['bot' '#17253' '#200149' '#35296' 'horseshoe']	0.488213129985	0.607598868145
+#171698	['#171698' 'prognostication' 'stagflation' 'bearish' 'stock market index']	0.490790112733	0.570181667989
+adopting	['adopting' '#60741' 'sea turtle' 'energy source' '#3457']	0.526394860119	0.657825759854
+gravimetric	['gravimetric' '#98237' '#179357' 'wind speed' 'wavelength']	0.470922075888	0.520384902425
+countervail	['countervail' 'vanilla' 'currency appreciation' '#59096' '#184010']	0.429177570094	0.558561862534
+criticise	['criticise' 'dole out' 'inattention' 'trifle' '#76197']	0.408081261678	0.550628247744
+#71213	['#71213' '#69936' 'demagogic' '#173795' 'subjugate']	0.465970141202	0.534591342668
+recording machine	['recording machine' 'magnetic tape' '#21957' 'pus' 'typewriter']	0.452023871259	0.564111311659
+#60627	['#60627' 'anaesthetic' 'anaesthesia' 'magnetic resonance imaging' '#97822']	0.389766339504	0.49053368826
+#79306	['#79306' 'drums' 'insulated' '#15703' '#85961']	0.390297167002	0.499016798423
+causal	['causal' '#83142' '#59544' 'causative' 'probability']	0.428577992282	0.554622191688
+tax avoidance	['tax avoidance' '#4423' 'capital flight' '#277152' '#143313']	0.434204873959	0.532387749513
+hotel manager	['hotel manager' 'fitter' '#1690' 'beauty parlour' '#133843']	0.515721375387	0.556510061329
+remaking	['heady' '#139153' 'remaking' 'rein in' 'nostalgia']	0.518008983999	0.51958393532
+#63037	['#63037' 'titanium' 'hydroxide' '#62994' '#62874']	0.473225310249	0.499943356143
+illegal	['illegal' '#89175' 'illicit' 'example' 'construction']	0.455562802819	0.575090725591
+petroleum	['petroleum' '#64471' '#64240' 'hydrocarbon' '#63794']	0.441256300486	0.565183562993
+merchant marine	['merchant marine' 'overfishing' 'merchant navy' '#20370' '#11963']	0.409162244038	0.574278119792
+irritate	['irritate' '#66314' '#144564' 'sodium carbonate' '#73868']	0.385751074414	0.484949452465
+#1716	['#1716' 'colonialism' 'apartheid' '#28694' 'legacy']	0.414725941968	0.521142176466
+background knowledge	['background knowledge' 'reproducibility' 'excitability' 'iceberg'
+ 'subjectivity']	0.484877046921	0.583288229745
+#48618	['#48618' '#97698' 'struggle for existence' 'flowering' 'materialistic']	0.421273683556	0.513648388073
+#140959	['#140959' 'vinyl' '#62798' '#293841' '#64637']	0.363925167407	0.448069501755
+pension benefit	['pension benefit' 'retirement pension' '#139728' 'retirement benefit'
+ 'old-age pension']	0.485309764614	0.602554069218
+iodide	['iodide' '#64295' 'flocculation' '#64574' '#98941']	0.394116580003	0.451899506446
+#312556	['#312556' 'mercantilist' '#136840' '#28212' '#26927']	0.506057024805	0.574483498936
+one-sided	['one-sided' '#92234' 'demagogic' 'insolence' 'self-righteousness']	0.431615950952	0.54883049613
+temporary employee	['temporary employee' '#123970' '#47766' 'family business' 'tenant farmer']	0.51401352564	0.559538793097
+#317649	['#317649' 'public funding' 'public fund' 'bank loan' '#305341']	0.415671913943	0.562738969119
+self-analysis	['self-analysis' 'skeptic' 'give-and-take' 'peer pressure' 'thrift']	0.465997866242	0.562088883176
+overrun	['overrun' '#3717' 'miserable' '#177031' 'target range']	0.42731256443	0.620660077754
+#41515	['#41515' 'steppe' 'savannah' 'heathland' '#41516']	0.40918696096	0.486041103154
+bald eagle	['mink' 'peregrine falcon' '#150461' 'bald eagle' '#9223']	0.456055117135	0.44619337251
+#186070	['#186070' 'conjunctive' 'referent' 'guarded' 'guardroom']	0.562697509028	0.58721632365
+take-off	['take-off' '#1208' 'millimetre' '#116122' 'unsteady']	0.432988733716	0.556489141069
+accomplishment	['accomplishment' 'expected' 'assumption' '#141146' '#33444']	0.491792233082	0.60117802156
+#47560	['#47560' 'state attorney' "state's attorney" 'gambler' '#145899']	0.457621875798	0.569658930564
+offended	['offended' 'demean' 'law-breaker' '#62209' 'inexact']	0.476020131105	0.556871234044
+video disc	['video disc' 'neural' '#20805' 'chromatography' '#324533']	0.473196514843	0.574347138218
+mechanic	['mechanic' '#43794' 'electrician' '#46473' 'carpenter']	0.421042737661	0.478740492631
+#83362	['#83362' 'dark' 'episode' '#60264' 'depressing']	0.47140494914	0.59340500935
+conformity	['conformity' '#77667' 'dignity' 'cop' '#47087']	0.490326412869	0.594766514984
+dressmaker	['seamstress' 'gari' 'dressmaker' 'apiculture' 'home appliance']	0.463721400158	0.459252422841
+vermiculite	['vermiculite' 'calcium carbonate' '#132413' 'enzymatic' 'gari']	0.455432817549	0.479679679847
+indulgence	['indulgence' 'word of farewell' 'crave' '#89471' '#68118']	0.395954896515	0.544762325691
+peaceful coexistence	['#321577' 'peaceful coexistence' '#60341' 'coexistence' 'aspire']	0.441732803379	0.466088917505
+#46699	['#46699' 'politician' 'decision maker' '#156344' '#149129']	0.463845660556	0.571893360828
+#46436	['orphan' '#46436' '#108912' '#69387' 'scholarship']	0.45575187437	0.548749704587
+multi-user	['multi-user' '#39421' 'weather station' '#317969' '#122240']	0.474083059596	0.556640659482
+#94305	['#94305' 'soporific' '#87794' '#10527' 'vivisection']	0.427463986534	0.501274825106
+definite time	['definite time' 'biogenetic' 'pollinate' '#94846' 'nuts']	0.491001800722	0.560402492439
+news agency	['news agency' '#38524' '#294428' 'wire service' '#199840']	0.421756537841	0.548733991459
+winter	['#65755' 'winter' '#65753' 'season' '#98573']	0.424427878478	0.488365215996
+#30507	['greeting' '#30507' 'cordial' '#115179' 'cordial reception']	0.465043298708	0.563605622831
+scarring	['scarring' '#61866' 'forceps' '#26324' '#26496']	0.470449027303	0.508530046395
+international community	['international community' '#139532' '#62438' 'reform' 'justice']	0.394153988482	0.49826525996
+dismissed	['dismissed' 'err' 'cigarette lighter' '#68648' 'vote of no confidence']	0.500378669626	0.600912543593
+#81992	['#81992' 'grade' '#58248' 'consequent' 'constant']	0.465530254946	0.58090191554
+#95546	['#95546' '#28891' '#70933' '#73286' 'political party']	0.384067012096	0.544752348265
+full board	['full board' '#68354' '#1750' 'diaper' '#20334']	0.535717985376	0.580777152061
+#178808	['#178808' '#61246' '#29254' '#57743' 'unarguable']	0.483543265362	0.564127489345
+sprinkle	['sprinkle' 'macronutrient' 'high-energy' 'forceps' '#22055']	0.495164136605	0.539186094923
+ladder	['ladder' '#17606' 'quartile' '#74651' 'climb up']	0.422800009457	0.528911303366
+philosophy	['philosophy' '#60341' '#24643' 'standpoint' '#99719']	0.491003679846	0.601404377608
+freedom of assembly	['#199529' '#25036' 'freedom of assembly' 'freedom of speech'
+ 'right to strike']	0.484211281717	0.510445309952
+#37102	['#37102' '#36004' 'powdered milk' 'gari' '#36056']	0.449827352008	0.467374344626
+#73905	['#73905' 'afflict' 'ravage' '#67701' 'post-war']	0.433868945577	0.522632370722
+federal state	['federal state' 'autonomous region' '#39153' '#326920' 'hydrological']	0.502869847861	0.632556639106
+ethnic	['ethnic' 'religious' '#32792' '#44301' '#84189']	0.419496614143	0.578452303701
+#81290	['relational' '#81290' '#179267' '#192236' '#86025']	0.502536414611	0.549016188652
+pro se	['pro se' '#46582' '#127153' '#145713' '#41316']	0.543752439239	0.640946337636
+supersonic	['supersonic' 'unsteady' 'scent' '#142533' 'witch hunt']	0.42898182956	0.52415700264
+#124749	['#124749' 'first-born' '#81842' 'primogeniture' '#69649']	0.451700125652	0.544440769819
+toughening	['toughening' 'scandalous' 'police state' '#4255' '#26909']	0.467962017646	0.577019928939
+manganese	['manganese' 'nickel' '#62993' '#142483' '#63845']	0.395848370476	0.462584816152
+question mark	['question mark' 'sceptic' '#139153' 'cheer' 'rudder']	0.498910299851	0.567761989237
+#31121	['#31121' 'written agreement' '#176351' 'later on' 'contract of employment']	0.476447037688	0.597827837979
+#157436	['#157436' 'subsidiarity' '#28886' 'free enterprise' 'polluter']	0.391498669349	0.546524481353
+astronomical	['astronomical' '#96306' 'astronomy' '#179356' 'wavelength']	0.436207837909	0.505896280901
+ensnare	['ensnare' '#76197' 'downhill' 'swindle' '#72508']	0.475022028698	0.535137276485
+#37652	['#37652' 'lineage' 'patrilineal' 'agnate' 'stepmother']	0.414198629279	0.530527589058
+#119246	['kimberlite' 'brown coal' '#116122' '#62555' '#64402']	0.539702525097	0.493482409297
+#98747	['#98747' 'metallurgical' 'milling' 'smelt' 'automotive']	0.479368632568	0.502029301436
+#323809	['#323809' '#91282' '#23712' '#189876' 'implied']	0.534465194308	0.599060776896
+lf	['lf' 'fusible' '#89802' 'confidence interval' '#212371']	0.452412781424	0.548628788853
+#23676	['#23676' 'heady' '#73203' 'rapacious' 'voraciousness']	0.418244470275	0.501842390579
+destroyer	['destroyer' '#44707' 'air-to-air missile' 'landing gear' 'immiscible']	0.445399065543	0.525749493558
+personal	['personal' 'explain' '#28189' '#70292' '#88860']	0.484820717556	0.601002325907
+#17219	['#17219' '#85516' 'hydroxide' 'ocean bottom' 'calcium carbonate']	0.415391628808	0.527771003385
+poetic	['poetic' 'spiritual being' '#97384' 'abhorrence' '#88605']	0.443203261504	0.504147191038
+writing	['writing' '#27528' '#73491' '#29417' 'bilingual']	0.413441057399	0.586146637298
+#87648	['#87648' '#7' 'nostalgia' 'obstinate' 'dinosaur']	0.398680027216	0.495949391002
+dedicate	['dedicate' 'milestone' '#85452' 'literature' 'redouble']	0.491085811051	0.605503405783
+mod.	['mod.' 'perch' 'outgassing' 'cauliflower' '#87164']	0.45158504602	0.543578850083
+#43209	['#43209' '#32022' '#43405' '#287680' 'labor force participation rate']	0.498157879836	0.606141482178
+#85332	['symbiotic' '#85332' 'jellyfish' '#96993' 'life form']	0.432495493504	0.521791197631
+generously	['generously' '#192693' '#38432' 'disburse' '#87511']	0.420110458995	0.565111117226
+television viewer	['#199840' 'television viewer' 'rebroadcast' 'listener' '#142287']	0.506236006766	0.509879239607
+#43203	['#43203' '#98021' '#43212' '#98662' '#3140']	0.436072464747	0.563354931628
+#28230	['#28230' 'mathematics' '#156109' '#3601' 'second language']	0.342684958256	0.490756058483
+#77911	['#77911' '#140617' 'extrapolate' 'hypothesis' '#86059']	0.422280881382	0.578990783816
+ambition	['ambition' '#34416' '#23439' '#29850' 'aggressive']	0.39147329932	0.599660542914
+interrupt	['interrupt' 'interruption' '#77204' 'aggressive' '#126093']	0.482516553515	0.587542011013
+#119149	['#64319' '#63937' 'ketone' '#145574' '#62778']	0.53461242319	0.511545309846
+#28389	['#28389' '#27256' 'antiparasitic' 'biopsy' '#2804']	0.45488813799	0.480543110979
+#38512	['#38512' '#38497' 'intelligence' 'intelligence agency' 'gendarmerie']	0.417464991915	0.578349046577
+#139244	['#139244' 'hug' '#94831' 'beguile' 'production company']	0.462201432917	0.550120793233
+#4009	['#4009' '#186770' '#67340' '#70844' 'machine-gun fire']	0.406972106145	0.491727881964
+nitric acid	['sodium hydroxide' '#98778' '#63087' 'sodium carbonate' 'nitric acid']	0.454429494457	0.442114134734
+#67745	['#67745' 'disintegrate' 'brown coal' '#67490' '#72903']	0.528207940726	0.573453952867
+#172542	['#172542' '#150998' 'burn out' 'unavowed' '#70705']	0.414224435926	0.548841425497
+#60344	['#60344' '#91054' 'presence' '#97660' 'strength']	0.48526021907	0.607520009825
+psychiatric hospital	['psychiatric hospital' 'psychiatric' '#45651' 'hospitalization' '#2742']	0.5122415709	0.556852141351
+pantry	['pantry' 'nutritive' '#18838' 'pharmaceutics' '#34879']	0.475008316145	0.538659313065
+federal territory	['federal territory' '#326942' '#37083' '#59375' 'beast of burden']	0.473960915719	0.581020121994
+#164956	['#164956' 'biomaterial' 'pharmaceutics' 'basic research'
+ 'food irradiation']	0.459276746445	0.53981071663
+disinterestedness	['#28836' 'gravitation' 'disinterestedness' '#38647' '#221259']	0.612409579161	0.585823783471
+whip	['whip' '#22307' '#72205' 'whipping' '#72152']	0.43929467999	0.483587348081
+#65911	['#65911' 'lag' '#65458' '#67078' 'mature']	0.488724704633	0.632458898822
+#32881	['#32881' 'pronunciation' 'place name' 'appellative' '#29371']	0.417316243333	0.470566076882
+#132689	['kimberlite' '#132689' 'oil extraction' '#311429' 'milling']	0.447724411903	0.463496420636
+#31092	['#31092' 'cross-reference' '#212371' 'confidence interval'
+ 'dependent variable']	0.479986956806	0.572175484938
+copepod	['#8887' '#36209' 'copepod' 'fishmeal' 'microsome']	0.475687393917	0.471783182402
+#41499	['#41499' 'lake' 'birth rate' '#4374' 'reservoir']	0.418514247802	0.576298781865
+mercantile	['mercantile' '#36304' 'merry-go-round' 'gari' '#150998']	0.510770518007	0.557050936057
+dictatorial	['autocratic' 'dictatorial' 'despotic' '#84723' '#173795']	0.490181402141	0.496502075841
+#26387	['#26387' 'body mass' '#64574' 'sweetened' 'fluorosis']	0.398366751697	0.483232645717
+wanted	['wanted' '#95583' 'abductor' 'permissiveness' '#47792']	0.473718798611	0.619239535162
+calling card	['calling card' 'pulsar' '#152415' 'cybernetics' '#30524']	0.537685516331	0.554529899467
+#18588	['#18588' 'nylon' '#41259' 'flocculation' 'cracked']	0.467197323501	0.514027596817
+#41303	['#41303' '#98941' '#64733' 'titanium dioxide' '#172278']	0.367793893519	0.455794746787
+#96679	['cryogenic' '#96679' '#41259' 'hydride' 'wind tunnel']	0.512917591357	0.505623315186
+ostrich	['ostrich' '#6298' 'unrefined' 'fowl' '#35343']	0.396146879996	0.49540036639
+#151546	['#151546' 'chlorophyll' '#89283' 'phytoplankton' 'mineralogy']	0.378770688227	0.467046385967
+fallen	['fallen' '#81841' 'commiserate' 'thankful' 'forefather']	0.455452649783	0.562577791099
+#15798	['#15798' '#41259' 'gari' 'brown coal' 'flocculation']	0.486909491685	0.501671128957
+industrial	['industrial' '#37496' '#3760' 'commodity' 'decline']	0.489250797248	0.597599146358
+#69795	['#69795' '#23424' 'valour' '#143061' 'undying']	0.409165598819	0.520617896824
+#96198	['#96198' 'anticancer' 'fluorosis' '#5601' '#97515']	0.451959731655	0.505038734514
+sympathy	['sympathy' '#34772' 'condolence' '#60238' 'friendship']	0.480964966858	0.569212923684
+#44461	['#44461' 'e-mail' '#29110' 'encouragement' '#2433']	0.506487833711	0.59371160913
+scent	['scent' '#27164' 'leftovers' '#67490' '#49311']	0.367515331186	0.457816663204
+protectionism	['protectionism' '#46846' 'protectionist' '#202996' 'speculation']	0.504368563644	0.577825870437
+ancient	['ancient' '#92275' '#91088' '#192343' '#67817']	0.400006365664	0.576549707503
+ministerial decree	['ministerial decree' 'principal axis' '#30257' 'pathogenic' 'irradiation']	0.383492404284	0.592651232114
+district	['district' '#87491' 'agriculture' 'stipulate' 'train']	0.449764000494	0.629368502738
+provenance	['provenance' '#37675' '#86114' 'socio-economic class' '#59291']	0.447539805726	0.565640710568
+#191510	['#191510' '#46130' 'home economics' '#191511' 'ecumenical']	0.529352644882	0.567534578701
+#65173	['#65173' '#33646' 'summer' 'measurable' 'in time']	0.415062241627	0.563792907354
+#28126	['#28126' 'deconstruction' '#28923' '#33845' '#32448']	0.46116131222	0.561794390582
+#192080	['more than enough' '#192080' '#33617' '#73203' 'skeptic']	0.524255140795	0.559689103776
+#38693	['delegation' '#38693' 'part' '#30612' 'mr.']	0.47012078375	0.549099657076
+#30106	['#30106' 'consummation' 'decree nisi' 'canon law' 'sodium carbonate']	0.536367861743	0.586925291942
+#59285	['#59285' '#28328' 'square root' '#92225' 'weighting']	0.407024508127	0.499041221373
+get into	['get into' 'downhill' '#84823' 'leftovers' '#66025']	0.504683048317	0.535052370226
+#125333	['#125333' '#69649' '#150998' '#31287' 'gospel']	0.536076956793	0.580117096316
+make the grade	['make the grade' '#219514' '#141292' 'scent' 'red meat']	0.562324873629	0.592621457085
+#34695	['#34695' '#115610' 'weight' '#58482' '#130523']	0.459805241505	0.542428782117
+legal document	['legal document' 'gramophone' '#97222' 'arithmetic' '#62189']	0.500484475931	0.667154632287
+#64978	['#64978' 'toner' '#65125' 'writing paper' 'copier']	0.466249808803	0.521766347837
+#158098	['#158098' '#77336' 'date' '#190733' '#91105']	0.40702320363	0.535425295544
+venture	['venture' 'entrepreneurial' 'attractive' '#137108' 'low-cost']	0.437087166014	0.581907481054
+send up	['send up' '#80682' 'radial' '#14033' 'fuselage']	0.450863689235	0.536921351539
+nucleic acid	['nucleic acid' '#64485' 'peptide' 'proteomics' '#27255']	0.458665175469	0.51029011202
+clean energy	['clean energy' '#288939' '#312453' 'energy conservation' 'green energy']	0.4111654772	0.527435739121
+photolithography	['photolithography' '#10527' '#10116' '#138834' 'chromium plating']	0.438950608049	0.486029248461
+clip	['clip' 'news article' '#30414' 'transfer rate' '#30455']	0.442327346029	0.53149941075
+road accident	['road accident' '#199826' '#132449' '#186589' 'condensed milk']	0.408147684343	0.508887589158
+#149905	['#149905' '#18058' 'mapping' 'accuracy' '#23293']	0.434024846518	0.547444899958
+#197118	['#197118' 'point of departure' '#4241' 'de-orbit' '#71689']	0.402323630121	0.584106384016
+free market	['#125760' 'free market' 'free enterprise' '#196954' 'centralism']	0.518996886848	0.546062143928
+#43646	['#43646' 'sovereign state' 'friendship' 'ally' 'reward']	0.473998502835	0.598664723196
+#61575	['#61575' '#22850' 'bandage' 'lesion' 'perforate']	0.359309413856	0.475643675127
+laden	['laden' '#61246' '#64263' '#58351' '#67490']	0.450045138271	0.525596524738
+self-defense	['self-defense' 'unavowed' 'pretended' 'law of war' 'military man']	0.518347511734	0.562798945475
+schoolmaster	['schoolmaster' 'priesthood' '#87607' 'croupier' '#76463']	0.462814551054	0.594688684756
+#18603	['#18603' 'observatory' '#26953' '#98608' '#142718']	0.386369094257	0.538692172561
+#310617	['#310617' 'savannah' '#41856' 'steppe' '#36074']	0.383088121321	0.497426991325
+self-injury	['self-injury' '#27427' '#84797' 'mental state' 'injudicious']	0.486871628796	0.541839480713
+#24506	['#24506' 'slowness' 'tedious' '#94942' '#93643']	0.472733418933	0.599953077459
+#200358	['#200358' '#142718' 'shortly' '#4291' 'autumn']	0.456822227159	0.620175158233
+#283596	['tropical cyclone' '#283596' 'flash flood' '#49101' '#81339']	0.440593660589	0.503454546618
+ethnographic	['#98629' 'ethnographic' '#2135' '#91102' '#32609']	0.447074189672	0.502973188516
+film producer	['film producer' 'film production' 'film industry' 'dramatic art' '#2101']	0.475425175088	0.496557411926
+#84184	['#84184' 'sketchy' '#95172' 'fickle' '#82801']	0.428070814093	0.531451061323
+#4064	['#4064' 'standardization' 'calibration' 'quality assurance'
+ 'data management']	0.42322652808	0.577899255012
+delve	['delve' 'economic theory' 'indulgence' 'elucidation' '#166401']	0.514837817689	0.623898011488
+#68722	['#68722' 'base' 'basis' '#30612' 'necessary']	0.413620141709	0.51413415915
+measured	['measured' '#24344' '#89763' '#175817' 'confidence limit']	0.447840191639	0.55823200293
+armrest	['armrest' '#13052' 'radial' '#41259' 'tray']	0.447271040339	0.505837166437
+#326298	['#326298' 'gari' 'cotton plantation' 'vanilla' 'beef cattle']	0.460601766615	0.503924547988
+spaceflight	['spaceflight' 'radiation belt' 'aurora' 'solar physics' '#48682']	0.439657243167	0.520937728005
+divestiture	['#30617' 'oligopoly' 'divestiture' 'price control' '#275012']	0.511446884013	0.508112453968
+amphibian	['amphibian' '#78247' 'mollusc' '#281437' 'carnivorous']	0.386877647589	0.437467422725
+bedclothes	['bedclothes' 'diaper' 'buckle' '#34879' '#17734']	0.441793900477	0.493700892105
+#84071	['#84071' 'nonetheless' '#76550' '#84253' '#84718']	0.432226806493	0.610062699016
+#80998	['air force' '#80998' 'artillery' 'military aircraft' '#97928']	0.467602526789	0.55456270145
+#285259	['#285259' 'gravitation' 'postulate' 'axiological' 'steady state']	0.38356132088	0.534990992354
+#58239	['#58239' '#58238' '#83317' 'flocculation' 'brown coal']	0.428886387863	0.54302716968
+#308668	['#308668' 'pollution' '#97556' 'marine' '#118526']	0.436829342995	0.560492794943
+sexist	['sexist' '#82935' 'stereotyped' '#283909' 'sexualization']	0.507437615661	0.58667861816
+#68831	['#68831' '#23293' 'accuracy' 'verify' 'validate']	0.411830435126	0.529965225277
+acrylonitrile	['acrylonitrile' 'nitric acid' 'sodium hydroxide' '#62798' 'gari']	0.422563010129	0.477413126773
+#160374	['#160374' 'adaptor' 'adapter' 'shaver' '#41259']	0.452564300057	0.489745554915
+herbivorous	['herbivorous' '#83091' '#83089' '#11445' 'carnivorous']	0.482932588647	0.49547816702
+#89194	['#89194' 'illegible' '#116931' '#91479' 'bill of lading']	0.48538136064	0.577369508549
+planted	['planted' 'naturalness' 'timberland' '#11312' '#170952']	0.455350486239	0.57965372314
+unilaterally	['unilaterally' '#194396' '#326872' '#149978' 'frame']	0.390560416844	0.533850879388
+#85038	['#85038' '#92875' 'utilisation' 'reiterative' 'optimise']	0.475451508	0.611773876208
+uncontested	['uncontested' 'undisputed' 'determinative' 'supposition' 'make over']	0.388873824063	0.543708873241
+#27530	['#27530' '#28586' '#86025' 'conscientiousness' '#178671']	0.435411414565	0.599379257258
+#76340	['#76340' 'misinform' 'mysterious' 'obsess' 'imperialistic']	0.408489561185	0.524961758467
+#98677	['hydraulic' 'magneto' '#18934' '#98677' 'storage battery']	0.536882860825	0.515062454421
+#186952	['#186952' 'date of arrival' 'centile' 'date of birth' '#43882']	0.463386941926	0.567097815776
+#29785	['cleave' 'immortal' '#69649' '#148225' '#29785']	0.566640653438	0.560649915069
+have sex	['have sex' '#71155' '#202328' '#88023' 'sexual activity']	0.433611119137	0.579262168493
+theft	['theft' '#3162' 'robbery' 'kidnapping' 'homicide']	0.460982166067	0.544812931958
+bisexual person	['bisexual person' '#45497' 'virility' 'homo' 'inferiority complex']	0.520290994678	0.57844785512
+endless	['endless' 'incessant' '#89396' 'interminable' '#92050']	0.391792209495	0.53139885339
+reveal	['reveal' '#144360' '#90792' '#69941' 'contrary']	0.540443081912	0.620165101251
+seminarian	['seminarian' '#47253' 'sermon' '#2101' '#177237']	0.498836975957	0.554424784724
+#45815	['#45815' 'landowner' '#46554' 'land reform' '#47413']	0.404628337598	0.529097822804
+#305229	['civil lawsuit' '#305229' '#30617' 'election fraud' 'price control']	0.49487187455	0.525862369819
+tanker	['tanker' '#327028' 'fuel oil' '#136666' '#18634']	0.385042396032	0.50351748446
+#169696	['delaying' '#169696' 'inflexibility' '#3081' '#92050']	0.491985672615	0.545364614942
+#85103	['#85103' 'determining' '#30058' 'deciding' '#122420']	0.48802530032	0.600007569079
+#33842	['#33842' 'tightening' '#277152' 'equity market' 'inflationary']	0.453753310392	0.548538103844
+irradiation	['irradiation' '#133262' '#65935' '#41259' 'signaling']	0.448364898545	0.527899820714
+naturalness	['naturalness' 'gravitation' '#158427' '#115217' 'production function']	0.447918416699	0.551683745466
+#4	['#4' 'cell' '#14395' '#14393' '#72924']	0.440303517959	0.560298767891
+oceanic	['oceanic' 'oscillation' '#89051' '#48959' '#28567']	0.471506637747	0.529769725516
+ostensible	['ostensible' '#29308' '#70682' 'fictive' '#91910']	0.404413048941	0.518775183102
+#85407	['#85407' 'national park' 'natural resource' '#95087' 'inhabit']	0.434662938663	0.608008295135
+#29627	['#29627' '#3648' 'synthesis' '#27708' '#98165']	0.458768222764	0.582238002004
+#120867	['#120867' '#149978' 'south-east' '#305113' 'raw material']	0.44433698122	0.593284599957
+limelight	['limelight' '#99696' '#28886' 'perversely' '#23676']	0.534661388328	0.560429831565
+#201997	['#201997' 'energy unit' 'trophic' 'degrader' 'damping']	0.4191968877	0.499242095745
+#4744	['#4744' 'combat' '#27277' 'disability' '#4418']	0.396709842661	0.500766924739
+denomination	['denomination' '#37783' '#122674' '#97748' 'religious association']	0.449014627595	0.567286943902
+#192859	['#192859' 'in conclusion' '#200523' 'frank' 'ought']	0.369767411968	0.567189290163
+#305073	['#305073' 'playwright' '#44316' '#98787' 'stock market index']	0.501358542517	0.526169980533
+butane	['butane' '#63145' '#17551' 'kitchen utensil' '#63171']	0.399510896729	0.469039620835
+shaman	['shaman' '#47465' 'ostrich' '#27164' 'yoga']	0.409482448703	0.495397157591
+#14379	['#14379' '#16442' 'video recorder' '#19718' 'tray']	0.547201318646	0.565257186428
+comb	['comb' '#17734' '#85961' 'blouse' 'rope']	0.46583841525	0.525328974094
+reaction	['reaction' 'quick' '#37937' 'dispatch' 'trigger']	0.471019965366	0.585648840462
+#221500	['#221500' '#284448' 'ultranationalist' '#162243' 'death squad']	0.420758332409	0.539520831468
+circumstantially	['circumstantially' 'stochastic' '#91242' 'favored' '#201675']	0.5043976968	0.562889324187
+hand grenade	['hand grenade' '#16893' 'grenade launcher' '#16744' '#16215']	0.4120956726	0.483896827651
+#151659	['#151659' 'gravitation' 'civilize' 'rationality' 'spiritual being']	0.464407927507	0.541167576869
+eggplant	['eggplant' 'cabbage' '#56448' 'beet' '#35741']	0.411585667204	0.467674543814
+#141372	['#141372' 'cutting fluid' 'phosphoric acid' '#62798' '#64825']	0.438641005074	0.487738771285
+#13752	['#13752' 'boomerang' 'gravitation' 'magnificence' '#82908']	0.501780043002	0.54175154002
+#149096	['#149096' '#32748' '#126873' '#28991' 'demonization']	0.492117075051	0.557667335054
+#131626	['#131626' 'kana' '#6860' 'paw' 'kelvin']	0.457065220389	0.535721834617
+#226082	['#226082' 'polluter' 'carbon tax' 'effectivity' '#222927']	0.464540628404	0.562461976549
+psychological science	['psychological science' 'medical science' 'radiography' '#115217' '#28442']	0.410263630966	0.532845306033
+water quality	['water quality' '#307060' 'basin' 'river basin' '#143523']	0.429504027404	0.503393482928
+building worker	['building worker' 'gari' 'beef cattle' '#124196' 'fitter']	0.484483059121	0.536395655263
+geological	['geological' '#97659' 'geophysical' 'sulphide' '#64933']	0.357456028892	0.485716763259
+#193805	['#193805' 'primitive' 'hushed' 'perversely' '#92004']	0.395182934359	0.542040737932
+#85717	['drinkable' '#85717' '#63930' '#37152' 'ground water']	0.526031400647	0.522257797067
+burial ground	['burial ground' '#38013' '#137702' 'mysterious' 'divine']	0.469776362726	0.54363187379
+reindeer	['reindeer' '#11394' 'husbandry' 'cattle' 'breeding']	0.436186233688	0.54759482552
+income tax	['income tax' '#57374' '#37410' 'value-added tax' 'levy']	0.491588998281	0.570999579357
+#24745	['#24745' 'overabundance' 'primitive' "earth's crust" 'gari']	0.453531070909	0.521995720719
+#82665	['#82665' '#70933' 'worldwide' '#4988' 'non-proliferation']	0.452360803394	0.584306401699
+concerning	['concerning' 'importance' 'subject' '#216081' 'discussion']	0.447340002882	0.540263501601
+cleave	['cleave' '#37159' 'flowering' 'leftovers' '#94831']	0.36107570135	0.516614438873
+#39223	['#39223' 'emirate' '#47655' '#36311' 'gemstone']	0.452222568723	0.567218537616
+merchant vessels	['merchant vessels' '#20370' 'inflatable' 'sail' '#53693']	0.452331928282	0.562899656407
+#477	['#477' 'forceps' '#26515' '#19842' '#66182']	0.462020962381	0.494588693112
+captivity	['captivity' '#88697' '#87206' 'infiltrator' 'mutilated']	0.471191301249	0.581936364484
+#80800	['#80800' 'swan' '#138834' '#62798' '#63087']	0.392516725511	0.520347763064
+#11911	['#11911' 'ling' '#11312' 'tusk' 'grenadier']	0.441810110305	0.493310747927
+#14405	['#14405' 'methodology' 'centre' 'better' 'statistical']	0.436868675915	0.564782407925
+#45265	['geologist' 'geological survey' 'agronomist' '#131046' '#46368']	0.630483158583	0.535741038472
+horseshoe	['horseshoe' '#17172' '#94702' 'radial' 'tray']	0.492202250586	0.528820580442
+#45916	['#45916' 'sub' 'valuable' '#128' '#82005']	0.46800945683	0.620083206015
+#91724	['#91724' 'foreseeable' 'likelihood' '#79283' '#30058']	0.498167032207	0.595150915858
+#94641	['#94641' 'susceptible' 'uncommon' 'unhygienic' '#84515']	0.385232785406	0.531993199459
+#153074	['#153074' 'parson' 'dichloromethane' 'minimax' '#33977']	0.388275809909	0.491519870554
+#124196	['#124196' 'family business' 'working person' 'consumer cooperative'
+ 'seamstress']	0.361779836722	0.512274332908
+#75813	['#75813' 'promise' 'happen' 'nevertheless' '#70983']	0.403075377875	0.542138099692
+layoff	['layoff' '#870' '#58263' 'hike' '#304855']	0.430315522808	0.530741060196
+unearned	['unearned' '#162654' '#27164' '#222927' 'biogenetic']	0.462366059495	0.55980648196
+bring about	['bring about' 'intensification' 'worsen' '#73261' 'endure']	0.492018981353	0.594638034167
+#62945	['#62945' 'carbon' 'yield' '#309097' '#22797']	0.420040880349	0.602885985373
+#62941	['#62941' 'bromine' 'vanadium' '#49113' '#186586']	0.414811939713	0.489810916723
+rib	['collarbone' '#26515' '#26535' '#66514' '#145187']	0.512882982151	0.454216944118
+fame	['fame' 'capitalistic' 'ostrich' 'transcendence' 'insatiable']	0.439007919985	0.518899807009
+cremation	['cremation' 'fetus' '#61645' '#61390' '#26496']	0.431852839426	0.533382761046
+#83949	['#83949' '#91342' 'dissuasive' 'proportionate' '#27741']	0.438930586457	0.54607878877
+#4445	['#4445' 'allocation' '#24946' 'approval' '#58905']	0.476001640645	0.600628957966
+#98012	['#98012' '#79323' '#159421' 'salve' '#37876']	0.403894140173	0.562992644535
+#30626	['#30626' 'embargo' 'unilateral' 'stop' '#79214']	0.36880583572	0.540712175824
+#95412	['recyclable' 'reusable' '#95412' 'automotive' '#20958']	0.52648162649	0.548380683592
+#47010	['#47010' 'rescuer' 'oil extraction' 'booming' 'eucalyptus tree']	0.412290317528	0.53133401707
+#84563	['#84563' 'marvelous' '#37324' 'dogmatism' 'crowning']	0.523659763469	0.59333118945
+#1243	['#1243' 'cruise' '#310308' '#8853' '#310066']	0.388326658827	0.536304703537
+sterilized	['sterilized' 'cholesterol' '#63479' 'hormone' '#26356']	0.44961844331	0.543425519623
+mountain chain	['mountain chain' '#97698' '#49095' 'quadrangle' 'massif']	0.50076175781	0.538849401145
+reporting	['reporting' 'previous' '#190173' '#93683' 'complete']	0.429435302239	0.562513366455
+sauna	['#157726' '#20092' '#2069' '#20050' 'striptease']	0.558039195413	0.489601178304
+colouring	['colouring' 'powdered milk' '#91444' '#53693' 'gari']	0.487255551933	0.52393089447
+#149259	['needle' '#149259' '#96813' '#93318' 'gastric']	0.464717867923	0.49970068477
+earmark	['earmark' 'shortfall' 'donation' 'funded' 'inception']	0.401645759842	0.572780674584
+center	['center' 'methodological' '#99785' '#39133' 'point of view']	0.421325961242	0.556986635144
+magnetics	['magnetics' '#121186' 'electric field' 'convection' 'extreme ultraviolet']	0.497481391459	0.533949302484
+#135467	['bone of contention' '#135467' 'start out' 'irredentism' '#38647']	0.479853214182	0.53002722044
+#317462	['#317462' 'parental authority' 'paternal' '#97138' '#48053']	0.409185474359	0.513264317896
+#1019	['#1019' 'repair' '#2392' '#90792' '#76164']	0.477543609267	0.59881225322
+#68009	['#68009' '#77631' '#77652' '#41259' '#85238']	0.449234746494	0.588572233637
+#93789	['#93789' 'victimization' '#67051' '#554' 'intake']	0.414988521978	0.579587184371
+#43807	['#43807' 'obstetrician' 'paediatrician' '#45400' 'family doctor']	0.367311459331	0.47494283528
+bananas	['vanilla' 'beet' 'bananas' 'free on board' 'grapefruit']	0.498860387765	0.498355109439
+#48094	['#48094' 'breast feed' 'beef cattle' '#73856' 'powdered milk']	0.520878298934	0.572353903635
+#9658	['#9658' 'lion' '#125829' '#177237' 'fox']	0.415528722201	0.499037047864
+#200257	['#200257' 'overnight' 'turn around' 'lengthen' 'go home']	0.408299967673	0.556504319028
+#73770	['#73770' 'reassure' '#31199' 'normalization' '#193658']	0.38086544808	0.591660421685
+antichristian	['antichristian' '#4255' '#180125' '#28923' 'raging']	0.497097695363	0.547750139461
+miniscule	['#89122' 'miniscule' 'essential amino acid' '#304855' 'brown coal']	0.495192826756	0.531917088649
+sport facility	['#199568' 'swimming pool' 'sport facility' 'theatre company' '#19222']	0.567806460213	0.550442847909
+#78666	['#78666' 'personal matter' 'decedent' '#29308' 'biogenetic']	0.401763214345	0.536226977303
+#178134	['#178134' 'phenomenological' '#27295' 'hitch-hiking' 'cosmology']	0.474518944885	0.581539659436
+ease	['ease' 'deepen' '#66876' '#62359' 'deteriorate']	0.398875373567	0.588695278916
+mobile phone operator	['mobile phone operator' '#70956' 'mutual fund' '#28314' '#49311']	0.484260624995	0.562370880904
+#215118	['further education' '#215118' 'methodologist' 'liberal arts' '#178671']	0.511747842631	0.523846844442
+shout	['shout' '#69848' 'cock' '#72299' 'marcher']	0.333929627751	0.436308521776
+decompression	['decompression' '#1437' 'forceps' 'gravitation' '#174119']	0.477568084958	0.511181852043
+exhibition	['exhibition' '#122415' '#18425' 'museum' 'celebration']	0.484095604214	0.545873977767
+#46121	['#46121' 'except' 'purchase' '#47666' 'loan']	0.380591966666	0.599140777264
+transformation	['transformation' '#93570' '#67858' 'progressive' 'undergo']	0.51427455781	0.613004116539
+oral exam	['oral exam' 'geometrical' 'cryogenic' '#70145' 'pixel']	0.510485983353	0.587681408723
+hunt down	['hunt down' '#7' '#71565' 'recoil' 'trumpet']	0.499452644236	0.52258506205
+punctual	['#92060' 'punctual' '#204006' '#23426' 'softly']	0.532531795774	0.53731838448
+archeological	['archeological' 'artistic heritage' '#175537' 'palaeontological'
+ 'paleontological']	0.47831289074	0.543920830008
+observation post	['#39409' 'observation post' '#13350' '#173859' 'alpha']	0.409300522366	0.518037011533
+#67837	['#67837' 'loosen' '#115004' 'unrefined' '#13189']	0.436854422778	0.518601176744
+five	['five' '#93684' 'four' '#93683' 'complete']	0.442089200901	0.503464222692
+#1834	['#1834' '#79863' '#177237' 'thanksgiving' 'genetic code']	0.480613484687	0.563836086204
+immediately	['immediately' '#67558' '#192541' 'perpetrator' 'decline']	0.503535205421	0.617493630551
+antiseptic	['antiseptic' '#63341' 'antioxidant' 'noodle' 'powdered milk']	0.433704485942	0.468815272549
+rear	['rear' '#216018' 'empty' '#38997' 'static']	0.525155664007	0.626086889921
+#33610	['#33610' 'derailment' '#70856' '#92004' '#158838']	0.421528334276	0.514424122857
+gatehouse	['gatehouse' 'electric motor' 'gas station' '#18783' 'brown coal']	0.467327613389	0.524028830608
+supernumerary	['supernumerary' 'compunction' 'prison guard' 'casual labour'
+ 'unconstitutionally']	0.408727078996	0.585826861626
+multicultural	['multicultural' 'bilingual' 'coexistence' '#90028' 'harmonious']	0.47918586917	0.568816211257
+securities	['securities' 'interest rate' '#57427' '#303930' 'disbursement']	0.42990881713	0.5465965784
+#64336	['#64336' 'magma' '#41859' '#49119' '#62549']	0.488237011447	0.503769421694
+#30559	['#30559' 'news agency' '#199840' '#30721' '#30447']	0.428992668106	0.557062488359
+adversity	['adversity' '#33757' '#23692' 'odds' 'humility']	0.5177308566	0.547740828853
+#95911	['#95911' 'worn' 'forceps' '#180046' '#95923']	0.421204985324	0.527704148411
+delegation	['delegation' '#38693' 'express' '#30612' 'part']	0.422109634193	0.548365183398
+#58527	['#58527' 'capacity unit' 'confidence interval' '#122240' 'culling']	0.510545243525	0.576270331852
+#78201	['weave' '#78201' 'knit' '#22426' 'monolith']	0.51927533245	0.548226623367
+character reference	['character reference' 'anthropometric' '#31284' '#14799' 'geometrical']	0.396917037859	0.538903963183
+computer screen	['computer screen' 'cleave' '#154181' 'gravitation' '#15211']	0.497693669178	0.539341967525
+tadpole	['tadpole' '#11606' '#83089' 'trout' 'microsome']	0.425120868983	0.463587080999
+outgo	['outgo' '#150975' 'kitchen garden' '#11188' '#7758']	0.449522927243	0.538815366174
+#124497	['#124497' '#19755' '#14741' 'mascot' 'arms control']	0.38115030432	0.598437498739
+#18321	['brown coal' '#64273' 'home appliance' 'merry-go-round' 'brass']	0.564893965863	0.533291320146
+intravenous	['intravenous' '#71155' '#303759' 'heterosexual' '#202328']	0.513330808679	0.563700032251
+run	['run' '#60331' 'distribute' '#30149' '#69193']	0.501726781408	0.624606854195
+#59348	['#59348' '#59347' '#93691' '#59354' '#65587']	0.475140972258	0.595643840161
+judgement by default	['judgement by default' 'error of form' 'err' '#4881' '#147915']	0.436972551925	0.561346002935
+#93582	['#93582' '#26797' 'body mass' '#212371' 'confidence interval']	0.452368691325	0.552608550463
+host	['host' 'attend' '#78054' '#99775' 'critical']	0.37040245375	0.518279248508
+uncivilized	['uncivilized' 'barbarian' 'arrogant' 'freak' '#92234']	0.415641721903	0.508009487199
+television show	['television show' '#200414' '#30460' '#148751' 'rebroadcast']	0.439664292736	0.516963709381
+city hall	['#145458' 'parish priest' '#177237' 'axe' 'sheik']	0.59554339596	0.563859144734
+#316429	['#316429' 'gravitation' '#34879' 'automaticity' '#31321']	0.531072447601	0.563308186935
+dictated	['dictated' '#92234' '#173795' 'postulate' 'oversimplified']	0.481154437719	0.56909656681
+firing	['firing' '#38653' '#4007' '#67340' 'projectile']	0.472201271681	0.529660261558
+foil	['foil' 'compunction' '#73203' '#140617' 'provoker']	0.471332336589	0.553167571206
+#88034	['#88034' 'transgender' 'gay' 'bisexual' 'differentiate']	0.377818439711	0.552374220127
+mental deficiency	['#26874' 'mental deficiency' 'deformity' '#97612' 'inborn']	0.448042914268	0.484478087564
+cooperative society	['cooperative society' 'consumer loan' 'thrift' '#175353' '#302723']	0.468080483062	0.509734502035
+#45424	['#45424' 'hardliner' 'hardline' '#69311' 'fanatic']	0.482889951768	0.524641360356
+#85414	['#85414' 'determinable' '#70313' 'amortize' '#4611']	0.453997170831	0.549658444819
+sept	['sept' '#36311' '#62958' 'senatorial' '#269463']	0.543027749366	0.594868667506
+#190337	['#190337' '#43140' 'monetary union' '#59775' 'clean fuel']	0.500949950284	0.614539927547
+deafness	['#62678' 'deformity' '#97612' '#61087' 'eyesight']	0.523000045629	0.440810868902
+#177650	['#177650' 'soya' 'collectivize' 'soybean' 'vanilla']	0.462461914387	0.548829737819
+social service	['social service' '#2413' 'shelter' '#4500' 'psychological']	0.460506395415	0.551075461135
+stabilisation	['stabilisation' '#145967' '#35504' '#64572' '#35517']	0.428404579696	0.559060200591
+#192246	['#192246' 'bi-weekly' 'biweekly' '#30327' '#49033']	0.482951512644	0.558972817179
+renewal	['renewal' '#5151' '#90763' 'similarly' '#4765']	0.448802966971	0.562637449634
+#116039	['#116039' '#136840' 'nostalgia' 'totalitarianism' 'utilitarianism']	0.352354937159	0.467431020718
+preferment	['preferment' 'pretended' '#81820' 'law-breaker' 'ex.']	0.466913746771	0.57072224814
+#29033	['#29033' 'liaison' '#190012' 'pursuit' '#87280']	0.379123296798	0.559242549572
+galvanize	['galvanize' '#74008' '#71490' 'energize' '#67142']	0.439891864899	0.56464561207
+dynamite	['dynamite' '#15760' 'earthenware' '#120766' '#15268']	0.415984538476	0.503572463778
+artificial intelligence	['artificial intelligence' 'gravitation' '#94950' '#49311' '#182495']	0.492820711649	0.540269939646
+#174400	['#174400' 'environmental features' 'energy unit' '#34879' '#222927']	0.473233548523	0.556153730077
+#159174	['#159174' 'struggle for existence' 'convalesce' '#64474' 'heady']	0.416334804278	0.553872560026
+#144597	['#144597' '#47914' 'professorship' 'entrance examination' '#287017']	0.466309822788	0.607197977199
+#27708	['#27708' '#59880' '#30058' 'glossary' '#29679']	0.445259012351	0.649741931447
+#143388	['look back' '#143388' '#166401' 'darken' 'cartesian']	0.490412072725	0.541872757946
+#97755	['#97755' '#39138' '#43118' 'neighbourhood' 'extremist']	0.458168985897	0.585462226535
+prawn	['prawn' '#8832' '#11954' 'sardine' 'legume']	0.464403027928	0.479338810515
+#33126	['#33126' 'unavowed' 'fanciful' 'civilize' 'couch']	0.388278843158	0.534684866044
+#43163	['#43163' '#43192' '#27884' '#98514' '#43440']	0.428933000949	0.605222520455
+injection	['injection' '#2843' 'methane' '#1283' '#63340']	0.425828081959	0.526451534903
+#159672	['#159672' '#150998' 'guillotine' 'forceps' 'meek']	0.455014873028	0.537152405082
+#182495	['#182495' 'beef cattle' 'pig' 'llama' 'apiculture']	0.385920241768	0.483079161666
+#306234	['#306234' '#217779' 'radiological' 'ionizing radiation' 'radionuclide']	0.512869456017	0.623964997853
+church building	['church building' '#76197' '#43539' 'aristocracy' '#77663']	0.528628652614	0.571196167108
+#192693	['generously' '#192693' '#87511' '#38432' '#321577']	0.476761686852	0.569072533528
+wholesale	['wholesale' 'retail' '#36128' 'tax income' 'manufacturing business']	0.462175411024	0.573599394205
+spleen	['spleen' 'oedema' '#25395' 'olfactory' '#97821']	0.381096487548	0.447235444754
+jackhammer	['jackhammer' '#12818' '#20986' 'radial' 'pressure switch']	0.479875053398	0.534012702875
+fried	['fried' '#36311' '#36601' 'beet' '#7758']	0.411384328008	0.490556032541
+propaganda	['propaganda' 'ideology' 'hate' '#69586' '#29417']	0.434156277211	0.560898527323
+#36966	['whisky' '#36966' 'gari' 'unrefined' '#10527']	0.464464853752	0.489470008208
+#37509	['#37509' 'popular culture' 'carnival' '#2069' 'mass communication']	0.391157753783	0.505685664184
+#186606	['#186606' 'tritium' 'nitric acid' '#41258' 'thorium']	0.425126887822	0.495387945923
+#72468	['#72468' 'hijack' 'airplane' 'fatally' '#150998']	0.449425526287	0.525673548106
+#79160	['sash' 'gari' '#18934' 'earthenware' '#16163']	0.589466919707	0.508603176138
+#85687	['#85687' 'paramount' '#17516' '#24464' '#118526']	0.502885134595	0.598423731885
+#117501	['#117501' '#146847' 'dioxin' 'vector' '#160700']	0.411572524688	0.544838163366
+#77497	['#77497' 'quantifiable' 'depreciation' 'end result' 'operating cost']	0.492339361099	0.62287088996
+father-in-law	['father-in-law' '#45035' 'mother-in-law' '#47459' 'brother-in-law']	0.404953157859	0.506959272679
+ameliorate	['ameliorate' '#137531' 'dire' 'desperate' 'financial condition']	0.432468514796	0.597061615095
+#44447	['#44447' '#82801' '#92827' '#92835' 'money supply']	0.408456130851	0.511464666487
+#46535	['#46535' 'mujahideen' '#122769' 'nationalist' '#44219']	0.389737257804	0.534977749073
+biochemistry	['biochemistry' '#28470' 'medical science' 'molecular biology'
+ 'pharmacology']	0.363744179887	0.455153115055
+diplomatic note	['diplomatic note' '#305160' 'restatement' '#24994' 'prof.']	0.477128517375	0.602219341578
+#45829	['#45829' '#45977' 'apostate' '#97955' '#43103']	0.478350111696	0.57417859055
+#87374	['#87374' 'underemployed' 'family business' 'labor force' 'jobless']	0.464401751528	0.562496650577
+vanquished	['vanquished' 'nostalgia' '#69649' '#96870' 'wickedness']	0.377961576364	0.484653470078
+#87377	['#87377' 'useful' 'learn' 'better' '#78613']	0.452916998963	0.54577321049
+papers	['papers' '#135323' 'identity card' '#87540' 'falsification']	0.424510024746	0.596373680475
+acidification	['acidification' '#57920' '#122220' 'eutrophication' '#39647']	0.433628399582	0.523217715134
+#39688	['#39688' 'building site' 'day labourer' 'construction site' '#16195']	0.475290464179	0.549216865727
+#81699	['#81699' '#90216' 'promiscuous' '#126619' 'buggery']	0.428495421675	0.56611982653
+switch off	['switch off' '#41777' 'gravitation' 'extraterrestrial' 'black hole']	0.416434464079	0.528385318214
+#85051	['#85051' 'population census' '#310212' '#30058' 'public expenditure']	0.490389110661	0.622332080262
+genealogical	['genealogical' '#98643' '#156129' 'spiritual being' 'bloodline']	0.458128013603	0.542966955532
+#87080	['unforgettable' '#87080' '#87631' 'chorus' '#304961']	0.496623981162	0.510917351909
+#166725	['paralyze' '#166725' '#173795' 'hushed' 'interregnum']	0.505325670975	0.514335837099
+ghost	['ghost' 'over again' '#140617' '#27382' '#34666']	0.526077564299	0.5794601383
+#15398	['#15398' 'diagram' '#212371' '#27719' 'dependent variable']	0.480440037053	0.54237983068
+#90901	['clothed' 'piercing' '#16227' '#115830' '#304883']	0.607915790611	0.504556535336
+#32529	['#32529' 'gravitation' '#137702' 'colouration' 'folk medicine']	0.481085112993	0.530398349373
+exigent	['exigent' '#89881' '#13525' 'ascertainable' '#67090']	0.491707936546	0.582412883837
+heath	['heath' '#39055' '#61247' 'oncologic' 'nourishment']	0.466223443851	0.541807071715
+#78966	['#78966' 'earth' 'aerodynamic properties' '#27537' '#29538']	0.417549880773	0.593954687213
+#23705	['#23705' 'subjectivity' 'spiritual being' 'primitive' 'neoclassical']	0.418116435977	0.518823265454
+#950	['#950' '#64945' '#116122' '#1420' '#30439']	0.489596844437	0.567125835302
+#95409	['#95409' 'beneficial' '#92300' '#99764' 'stimulate']	0.511518036512	0.598272493731
+#147256	['#147256' 'aristocracy' 'sterility' 'alpha particle' 'gravitation']	0.466962720404	0.573991553995

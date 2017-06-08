@@ -1,0 +1,8 @@
+	Top 5	Existe
+SL	0.484	0.12	#80% de los vectores para el training
+SL	0.6	0.164	#5000 vectores para el training
+SL	0.364	0.094	#80% de los vectores para el training
+SL	0.524	0.134	#5000 vectores para el training
+SL	0.958	0.236   #regul, 5000 iteraciones con 0.5 de learning_rate
+SL	0.964	0.238   #regul, 5000 iteraciones y sin learning_rate
+SL	0.966	0.238   #regul, 5000 iteraciones alpha 2.0 learning rate 0.9
