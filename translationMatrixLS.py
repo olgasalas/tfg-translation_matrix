@@ -8,6 +8,7 @@ import pdb
 from functools import partial
 import random
 import io
+import codecs
 
 
 def generateDict(mapping):
@@ -133,7 +134,7 @@ def createEmbeddings(rowsf, colsf, lang, ttype):
   identifiers = []
   mapping_s = {}
   mapping_l = {}
-  with open(os.getcwd()+'/word2vec/en_es.txt','r') as m:
+  with open(os.getcwd()+'/dicts/en_es.txt','r') as m:
     if lang == 'en':
       for line in m:
         (key,val) = line.split() #EN -> SP
@@ -142,7 +143,7 @@ def createEmbeddings(rowsf, colsf, lang, ttype):
       for line in m:
         (val,key) = line.split() #SP -> EN
         mapping_s[key] = val
-  with open(os.getcwd()+'/word2vec/en2es-lemma-dict.txt','r') as m:
+  with open(os.getcwd()+'/dicts/en2es-lemma-dict.txt','r') as m:
     if lang == 'en':
       for line in m:
         (key,val) = line.split(':') #EN -> SP
@@ -242,7 +243,7 @@ def generateVectors(binFile, vocabulary, embeddings, lang):
   lemmas = {}
   fmt = struct.Struct('%df' % embeddings)
   with open(binFile,'r') as binf:
-    with io.open(vocabulary,'r',encoding='utf-8') as vocab:
+    with codecs.open(vocabulary,'r',encoding='utf-8') as vocab:
       for data, token in zip(iter(partial(binf.read, embeddings*4), ''), vocab):
         token = token.strip('\n')
         tokens.append(token)
@@ -274,7 +275,7 @@ def paralellizeVectors(source,target,slang):
   translation_s = {}
   translation_l = {}
   target_embeddings = dict((x,y) for x,y in zip(target[0],target[1]))
-  with open(os.getcwd()+'/word2vec/en_es.txt','r') as syncons:
+  with open(os.getcwd()+'/dicts/en_es.txt','r') as syncons:
     if slang == 'en':
       for line in syncons:
         (key,val) = line.split() #EN -> SP
@@ -283,7 +284,7 @@ def paralellizeVectors(source,target,slang):
       for line in syncons:
         (val,key) = line.split() #SP -> EN
         translation_s[key] = val
-  with open(os.getcwd()+'/word2vec/en2es-lemma-dict.txt','r') as lemmas:
+  with codecs.open(os.getcwd()+'/dicts/en2es-lemma-dict.txt','r',encoding='utf-8') as lemmas:
     if slang == 'en':
       for line in lemmas:
         (key,val) = line.split(':') #EN -> SP
@@ -475,13 +476,13 @@ def generateBin(embeddings,path):
 def generateDicts():
   d_en_es = {}
   d_es_en = {}
-  with open(os.getcwd()+'/word2vec/en2es-lemma-dict.txt','r') as lemmas:
+  with open(os.getcwd()+'/dicts/en2es-lemma-dict.txt','r') as lemmas:
     for line in lemmas:
       (key,val) = line.split(':') #EN -> SP
       d_en_es[key] = val.strip('\n')
       (val,key) = line.split(':') #SP -> EN
       d_es_en[key.strip('\n')] = val
-  with open(os.getcwd()+'/word2vec/en_es.txt','r') as syncons:
+  with open(os.getcwd()+'/dicts/en_es.txt','r') as syncons:
     for line in syncons:
       (key,val) = line.split()
       d_en_es[key] = val

@@ -10,13 +10,13 @@ import metrics
 import codecs
 from collections import OrderedDict
 from annoy import AnnoyIndex
-import translationMatrixLS.py as tmls
+import translationMatrixLS as tmls
 
 class Sgd:
     
     global num_steps, batch_size, emb_size, h1_size
     
-    num_steps = 1501
+    num_steps = 1001
     batch_size = 500
     emb_size = 300
     h1_size = 10000
@@ -24,7 +24,8 @@ class Sgd:
     def __init__(self, sv, tv, svlang):
         s = sv[1]
         t = tv[1]
-        '''
+        
+        #Uncomment for training
         indexes = random.sample(range(len(s)),len(s))
         p80 = len(s)*80/100
         p10 = len(s)*10/100
@@ -38,7 +39,7 @@ class Sgd:
         self.valid_labels = t[valid]
         self.test_dataset = s[test]
         self.test_labels = t[test]
-        '''
+        
         self.sv = sv
         self.tv = tv
 
@@ -142,6 +143,7 @@ class Sgd:
             #with codecs.open(os.getcwd()+'/vocab_'+self.svlang+'.txt','r',encoding='utf-8') as s:
             with codecs.open(os.getcwd()+'/samples_'+self.svlang+'_full.txt','r',encoding='utf-8') as s:
                 for line in s:
+                        #print(aux.keys())
                     	samples[line.strip('\n')] = aux[line.strip('\n')]
             print('Fin:', time.time()-start)
 
@@ -180,8 +182,8 @@ class Sgd:
 		#metrics.distance_from_algorithm(samples, self.sv, self.tv, 'NN2')
             else:
 		start = time.time()
-                metrics.top5_2(t,embeddings, samples, self.sv, self.tv, 'NN2')
-                #metrics.top5(t, embeddings, samples, self.sv, self.tv, 'NN2')
+                #metrics.top5_2(t,embeddings, samples, self.sv, self.tv, 'NN2')
+                metrics.top5(t, embeddings, samples, self.sv, self.tv, 'NN2')
 		print('Fin:',time.time()-start)
             
 	       
@@ -196,16 +198,16 @@ def main():
     parser.add_argument('--top5', action='store_true')
     parser.add_argument('--distance', action='store_true')
     args = vars(parser.parse_args())
-    sbin = os.getcwd()+'/vecs_'+args['source']+'.bin'
-    svocab = os.getcwd()+'/vocab_'+args['source']+'.txt'
-    tbin = os.getcwd()+'/vecs_'+args['target']+'.bin'
-    tvocab = os.getcwd()+'/vocab_'+args['target']+'.txt'
-    sbin_full = os.getcwd()+'/vecs_'+args['source']+'_full.bin'
-    svocab_full = os.getcwd()+'/vocab_'+args['source']+'_full.txt'
-    tbin_full = os.getcwd()+'/vecs_'+args['target']+'_full.bin'
-    tvocab_full = os.getcwd()+'/vocab_'+args['target']+'_full.txt'
+    sbin = os.getcwd()+'/regul_vec/'+args['source']+'/bin/vecs.bin'
+    svocab = os.getcwd()+'/regul_vec/'+args['source']+'/bin/vocab.txt'
+    tbin = os.getcwd()+'/regul_vec/'+args['target']+'/bin/vecs.bin'
+    tvocab = os.getcwd()+'/regul_vec/'+args['target']+'/bin/vocab.txt'
+    sbin_full = os.getcwd()+'/regul_vec/'+args['source']+'/bin_full/vecs_full.bin'
+    svocab_full = os.getcwd()+'/regul_vec/'+args['source']+'/bin_full/vocab_full.txt'
+    tbin_full = os.getcwd()+'/regul_vec/'+args['target']+'/bin_full/vecs_full.bin'
+    tvocab_full = os.getcwd()+'/regul_vec/'+args['target']+'/bin_full/vocab_full.txt'
 
-    en = tmls.generateVectors(sbin_full, svocab_full, 300, args['source'])
+    en = tmls.generateVectors(sbin, svocab, 300, args['source'])
     # Descomentar estas dos lineas para entrenar y comentar la de test
     #es = tmls.generateVectors(tbin, tvocab, 300, args['target'])
     #es = tmls.paralellizeVectors(en,es,'en')

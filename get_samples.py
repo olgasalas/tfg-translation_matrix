@@ -6,16 +6,18 @@
 import os
 import random
 import codecs
-import translationMatrixLS.py as tmls
+import translationMatrixLS as tmls
 
-sbin = os.getcwd()+'/vecs_en_full.bin'
-svocab = os.getcwd()+'/vocab_en_full.txt'
+sbin = os.getcwd()+'/regul_vec/en/bin/vecs.bin'
+svocab = os.getcwd()+'/regul_vec/en/bin/vocab.txt'
+sbin_full = os.getcwd()+'/regul_vec/en/bin_full/vecs_full.bin'
+svocab_full = os.getcwd()+'/regul_vec/en/bin_full/vocab_full.txt'
 
 en = tmls.generateVectors(sbin, svocab, 300, 'en')
 
-indexes = random.sample(range(len(en[0])),100)
+indexes = random.sample(range(len(en[0])),500)
 samples = dict((x,y) for x,y in zip(en[0][indexes],en[1][indexes]))
-with open(os.getcwd()+'/samples_en_full.txt', 'w') as txt:
+with codecs.open(os.getcwd()+'/samples_en_full.txt', 'w') as txt:
     for s in samples:
         txt.write(s+'\n')
 

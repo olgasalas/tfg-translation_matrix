@@ -13,7 +13,7 @@ import numpy as np
 from scipy import spatial
 import codecs
 from annoy import AnnoyIndex
-import translationMatrixLS.py as tmls
+import translationMatrixLS as tmls
 
 def distances(embeddings, tokens, en, es, algorithm):
     d_en = dict((x,y) for x,y in zip(en[0],en[1]))
@@ -54,13 +54,13 @@ def distances(embeddings, tokens, en, es, algorithm):
 def top5(t, embeddings, tokens, en, es, algorithm):
   d_en_es = {}
   d_es_en = {}
-  with codecs.open(os.getcwd()+'/../word2vec/en2es-lemma-dict.txt','r',encoding='utf-8') as lemmas:
+  with codecs.open(os.getcwd()+'/dicts/en2es-lemma-dict.txt','r',encoding='utf-8') as lemmas:
     for line in lemmas:
       (key,val) = line.split(':') #EN -> SP
       d_en_es[key] = val.strip('\n')
       (val,key) = line.split(':') #SP -> EN
       d_es_en[key.strip('\n')] = val
-  with open(os.getcwd()+'/../word2vec/en_es.txt','r') as syncons:
+  with open(os.getcwd()+'/dicts/en_es.txt','r') as syncons:
     for line in syncons:
       (key,val) = line.split()
       d_en_es[key] = val
@@ -71,7 +71,7 @@ def top5(t, embeddings, tokens, en, es, algorithm):
   exists = 0
   i = 0
   with codecs.open(os.getcwd()+'/t5-'+str(len(tokens))+'-'+algorithm+'.tsv','w',encoding='utf-8') as tsv:
-    #with open(os.getcwd()+'/t5-media.tsv','a') as m:
+    with open(os.getcwd()+'/t5-media.tsv','a') as m:
       for token,embedding in zip(tokens,embeddings):
         fin = 0
         start = 0
@@ -81,29 +81,30 @@ def top5(t, embeddings, tokens, en, es, algorithm):
           fin = time.time()
           #n = tmls.getSimilars(embedding, 5, es)
           n = es[0][items]
-          top = tmls.getTop(d_en_es[token],n,5)
+          top += tmls.getTop(d_en_es[token],n,5)
           if d_en_es[token] in n:
-            exists = 1 #+= 1
-          tsv.write(token+'\t'+str(top)+'\t'+str(exists)+'\t'+str(1)+'\n')
-          exists = 0
+              tsv.write(token+'\t'+str(tmls.getTop(d_en_es[token],n,5))+'\t'+str(1)+'\t'+str(1)+'\n')
+              exists += 1
+          else:
+              tsv.write(token+'\t'+str(tmls.getTop(d_en_es[token],n,5))+'\t'+str(0)+'\t'+str(1)+'\n')
 	else:
 	  tsv.write(token+'\t'+str(0)+'\t'+str(0)+'\t'+str(0)+'\n')
-          #m.write(algorithm+'_annoy\t'+str(top/float(len(tokens)))+'\t'+str(exists/float(len(tokens)))+'\n')
 	i+=1
         print(i, fin-start)
-          
+      m.write(algorithm+'_annoy\t'+str(top/float(len(tokens)))+'\t'+str(exists/float(len(tokens)))+'\n')
+
 
 
 def top5_2(t, embeddings, tokens, en, es, algorithm):
   d_en_es = {}
   d_es_en = {}
-  with open(os.getcwd()+'/../word2vec/en2es-lemma-dict.txt','r') as lemmas:
+  with open(os.getcwd()+'/dicts/en2es-lemma-dict.txt','r') as lemmas:
     for line in lemmas:
       (key,val) = line.split(':') #EN -> SP
       d_en_es[key] = val.strip('\n')
       (val,key) = line.split(':') #SP -> EN
       d_es_en[key.strip('\n')] = val
-  with open(os.getcwd()+'/../word2vec/en_es.txt','r') as syncons:
+  with open(os.getcwd()+'/dicts/en_es.txt','r') as syncons:
     for line in syncons:
       (key,val) = line.split()
       d_en_es[key] = val
