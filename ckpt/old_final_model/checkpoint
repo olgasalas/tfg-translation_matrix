@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/olga/workspace/python/experiments/ckpt/translation_matrix.ckpt"
+all_model_checkpoint_paths: "/home/olga/workspace/python/experiments/ckpt/translation_matrix.ckpt"

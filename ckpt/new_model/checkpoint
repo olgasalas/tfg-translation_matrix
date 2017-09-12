@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/olga/workspace/tfg-translation_matrix/ckpt/translation_matrix.ckpt"
+all_model_checkpoint_paths: "/home/olga/workspace/tfg-translation_matrix/ckpt/translation_matrix.ckpt"
